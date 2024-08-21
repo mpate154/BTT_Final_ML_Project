@@ -7,12 +7,12 @@ As a part of Cornell University's Break Thru Tech program, I explored an "The Wo
 
 ------
 ## Contents
-- ### [Problem Statement/ Real World Application](problem-statement/-real-world-application)
+- ### [Problem Statement and Real World Application](problem-statement-and-real-world-application)
 - ### [Data Cleaning Summary](data-cleaning-summary)
   - #### [Dealing with Missing Data](dealing-with-missing-data)
   - #### [Other Data Cleaning](other-data-cleaning)
 - ### [Evaluation](evaluation)
-- ### [Challenges, Insights Gained and Future Improvements](challenges,-insights-gained-and-future-improvements)
+- ### [Challenges, Insights Gained and Future Improvements](challenges-,-insights-gained-and-future-improvements)
   - #### [Challenges](challenges)
   - #### [Insights Gained](insights-gained)
   - #### [Future Improvements](future-improvements)
