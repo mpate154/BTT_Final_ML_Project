@@ -19,7 +19,7 @@ As a part of Cornell University's Break Thru Tech program, I explored an "The Wo
 -----
     
 
-## Problem Statement/ Real World Application  
+## Problem Statement and Real World Application  
 Looking into the amount of freedom there is in choices can give different companies perspectives on the market and lifestyle of a place. For example, a high amount of freedom can mean there are more opportunities for companies to compete for advertising and selling their products AKA an open market, as the people have more choice in deciding what they want to buy. They can use this as an optic to see if they'll have successful profits. This can be another option for a food product, different types of education (private, charter, catholic, vocational), etc. If a companies goal to offer more freedom in a way that's either literal (non-profit for a cause) or more abstract (create options in a market), they can use this label to see a current standing.
 
 ## Data Cleaning Summary
